@@ -30,3 +30,5 @@ Now simply place the **extracted folder** with all the Textures in the **hires_t
 You'll see the Textures compiling into the Cache, when that's done the game will load with the new Textures.
 
 Since the Textures have compiled into the Cache - Venture over to the **cache folder** located above the **hires_textures** folder. If you see a **HTS File** (named **THE LEGEND OF ZELDA_HIRESTEXTURES.hts**) then it is safe to remove the Texture Folder from **hires_textures**.
+
+You can now <a href="http://rea1m.ca/cartoon-cell">view screenshots on my website</a>.
